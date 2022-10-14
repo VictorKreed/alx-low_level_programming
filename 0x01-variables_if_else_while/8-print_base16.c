@@ -9,7 +9,7 @@ int main(void)
 int var = 48;
 char let = 'a';
 char tyo = '\n';
-while (var < 68)
+while (var < 58)
 {
 putchar(var);
 var++;
