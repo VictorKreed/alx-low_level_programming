@@ -9,8 +9,9 @@ int main(void)
 int var = 0;
 while (var < 10)
 {
-printf("%d\n", var);
+printf("%d", var);
 var++;
 }
+printf("\n");
 return (0);
 }
