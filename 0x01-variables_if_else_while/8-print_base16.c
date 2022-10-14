@@ -7,11 +7,17 @@
 int main(void)
 {
 int var = 48;
+char let = 'a';
 char tyo = '\n';
 while (var < 68)
 {
 putchar(var);
 var++;
+}
+while (let <= 'f')
+{
+putchar(let);
+let++;
 }
 putchar(tyo);
 return (0);
