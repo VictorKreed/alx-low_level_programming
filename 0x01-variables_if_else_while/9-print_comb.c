@@ -15,8 +15,8 @@ putchar(var);
 if (var < 57)
 {
 putchar(gar);
-putchar(far);
 }
+putchar(far);
 var++;
 }
 return (0);
