@@ -12,11 +12,8 @@ int far = 32;
 while (var < 58)
 {
 putchar(var);
-if (var !=  57)
-{
 putchar(gar);
 putchar(far);
-}
 var++;
 }
 return (0);
