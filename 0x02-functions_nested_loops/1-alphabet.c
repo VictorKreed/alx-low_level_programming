@@ -17,8 +17,7 @@ return (0);
 }
 int main(void)
 {
-int mor = '\n';
-print_alphabet();
-putchar(mor);
+putchar(print_alphabet());
+printf("\n");
 return (0);
 }
