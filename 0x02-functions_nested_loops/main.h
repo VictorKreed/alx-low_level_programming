@@ -9,4 +9,5 @@ putchar(ally);
 ally++;
 }
 putchar(mor);
+return (0);
 }
