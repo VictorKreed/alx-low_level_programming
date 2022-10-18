@@ -8,11 +8,11 @@ void print_alphabet_x10(void)
 int spiro = 48;
 int mor = '\n';
 while (spiro < 58)
-{  
+{
 int ally = 97;
 int pull = 122;
-while (ally <= pull )
-{    
+while (ally <= pull)
+{
 putchar(ally);
 ally++;
 }
